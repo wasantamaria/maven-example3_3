@@ -1,0 +1,13 @@
+
+DevOpsMavenExample/.classpath
+DevOpsMavenExample/.project
+*.prefs
+*.class
+*.MF
+DevOpsMavenExample/target/classes/META-INF/maven/com.devops.bill/DevOpsMavenExample/pom.properties
+DevOpsMavenExample/target/classes/META-INF/maven/com.devops.bill/DevOpsMavenExample/pom.xml
+DevOpsMavenExample/target/DevOpsMavenExample-0.0.1-SNAPSHOT.jar
+DevOpsMavenExample/target/maven-archiver/pom.properties
+DevOpsMavenExample/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+DevOpsMavenExample/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+DevOpsMavenExample/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
